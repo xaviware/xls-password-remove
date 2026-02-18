@@ -138,7 +138,7 @@ This software is distributed as **Shareware** for historical preservation.
 ## Credits
 
 ### Original Development
-- **Javiware Software**: Javier Orellana - Original developer (2008)
+- **XaviWare Software**: Javier Orellana - Original developer (2008)
 - **Localization Contributors**: 
   - Bulgarian: Kaloyan Stolinov
   - Romanian: Cristian Stefan  
