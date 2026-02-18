@@ -1,0 +1,111 @@
+;Password Eliminator .XLS
+;General Information
+[GralInfo]
+TranslatorName="Javier Orellana"
+TranslatorURL="http://www.xaviware.cl"
+TranslatorEMail="xaviware@xaviware.cl"
+TranslatorDate="April 2007"
+LanguageName="English"
+LanguageFileVersion="v.1.0"
+;SPECIAL TAGS:
+;<APP/>   = Aplication Name (Password Eliminator.XLS)
+;<FILE/>  = Excel File Name
+;<BOOK/>  = Excel WorkBook Name
+;<SHEET/> = Excel Sheet Name
+
+;ToolBar Area
+[cmdOpen]
+ToolTipText="Open .XLS File"
+[cmdObtener]
+ToolTipText="Unprotect File"
+[cmdSalir]
+ToolTipText="Exit"
+[cmdBuynow]
+ToolTipText="Buy Now"
+
+;Label Area
+[lblArchivo]
+Caption="File"
+[lblResultado]
+Caption="Results"
+[lblDesarrolladoPor]
+Caption="Developed by"
+[lblRegistrado]
+Caption="Registered software"
+[lblGracias]
+Caption="Thank you for choosing XaviWare Software. Register today to enable all functionalities of <APP/>"
+[lblPorFavor]
+Caption="Please, send an email to :"
+[lblRegEmail]
+Caption="with <<register XLS>> in the subject, include your name in the Body to receive information about upgrades and freeware or shareware software published by us."
+[lblDisclaimer]
+Caption="Warning: this program is protected by the laws of royalties and other international treaties. The reproduction or illicit distribution of this program, or of any part of the same one it is punished by the law with severe civil and penal sanctions, and it will be object of all the judicial actions that correspond."
+[lblDescription]
+Caption="<APP/> is a program to unprotect Workbooks and Sheets of Microsoft Excel 5.0/7.0/95/97/2000/2002-XP/2003 protected with password" 
+[lblDev]
+Caption="Software Developer"
+[lblColaborador]
+Caption="Collaborators"
+[lblTrans]
+Caption="Interface Translator"
+
+;Button Area
+[cmdOk]
+Caption="&Ok"
+[cmdCancel]
+Caption="&Cancel"
+
+;Frame Area
+[frameReg]
+Caption="Enter your Key of Registration"
+
+;Menu Area
+[mnuOpciones]
+Caption="&Options"
+[mnuIdioma]
+Caption="&Language"
+[mnuRecent]
+Caption="Recent Files"
+[mnuAyuda]
+Caption="&Help"
+[mnuAcercaDe]
+Caption="&About ..."
+[mnuCompra]
+Caption="Order On-line"
+[mnuFeedBack]
+Caption="Send Suggestion or Birdcall"
+[mnuGoToWeb]
+Caption="Go to the Web of <APP/>"
+[mnuAyudaF1]
+Caption="&Help"
+[mnuProducts]
+Caption="Other Products"
+[mnuWebbrowsers]
+Caption="Web Browsers"
+[mnuRegistro]
+Caption="Registration..."
+
+;Msg Area
+[MSG]
+MSGADVISORY = "This program to unprotect Workbooks and Sheets of Excel, protected with password"
+MSGSELECTFILE = "It has not selected a File..."
+MSGFILENOTFOUND = "File Not Found..."
+MSGERRINVALIDKEY = "The specified registration key isn't valid, please try again!"
+MSGREGISTERED = "<APP/> has been registered successfully"
+MSGINITIALIZE = "unprotection process initialized..."
+MSGUNPROTECTEDFILE = "The File <FILE/> isn't protected with Password"
+MSGUNPROTECTEDSHEET = "The Sheet <SHEET/> isn't protected with Password"
+MSGFINALIZE = "unprotection process finalized..."
+MSGTOTALTIME = "Total Time : "
+MSGCOMBINATIONS = "Total of Proven Combinations : "
+MSGUNPROTECBOOK = "Unprotecting the Workbook <BOOK/> ..."
+MSGUNPROTECSHEET = "Unprotecting the Sheet <SHEET/> ..."
+MSGBOOKOK = "The Workbook <BOOK/> Has been unprotected successfully"
+MSGSHEETOK = "The Sheet <SHEET/> has been unprotected successfully"
+MSGBOOKWARRANTY = "This message is a warranty of Workbook <BOOK/> can be unprotected"
+MSGSHEETWARRANTY = "This message is a warranty of Sheet <SHEET/> can be unprotected"
+MSGBOOKPWDNOTFOUND = "WARNING: A valid Combination for Workbook <BOOK/> Has not been found. "
+MSGSHEETPWDNOTFOUND = "WARNING: A valid Combination for Sheet <Sheet/> Has not been found. "
+MSGWITHREGISTERED = "With the purchase of <APP/> it will be able to open to an unprotected version of the file <FILE/>"
+MSGCANTHELPU = "This program can't remove file protection, this program won't help you with this file."
+MSGONLYREMOVE = "This program only removes the passwords applies by [Tools]-[Protection]-[Protect sheet]/[Protect workbook]."

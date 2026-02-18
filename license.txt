@@ -1,0 +1,39 @@
+
+    Password Eliminator .XLS : the License
+    ====================================
+
+    The Password Eliminator .XLS is shareware. This means:
+
+  - All copyrights to Password Eliminator .XLS are exclusively owned by XaviWare Software.
+
+  - Once registered, the user is granted a non-exclusive license to 
+    use Password Eliminator .XLS on one computer (i.e. a single CPU) at a time.  The
+    registered Password Eliminator .XLS software may not be rented or leased, but may
+    be permanently transferred, if the person receiving it agrees
+    to terms of this license.  If the software is an update, the
+    transfer must include the update and all previous versions. 
+
+  - The Password Eliminator .XLS unregistered shareware version may be freely distributed,
+    provided the distribution package is not modified. No person or 
+    company may charge a fee for the distribution of Password Eliminator .XLS without 
+    written permission from the copyright holder. 
+
+  - Password Eliminator .XLS IS DISTRIBUTED "AS IS".  NO WARRANTY OF ANY KIND IS
+    EXPRESSED OR IMPLIED.  YOU USE AT YOUR OWN RISK.  THE AUTHOR
+    WILL NOT BE LIABLE FOR DATA LOSS, DAMAGES, LOSS OF PROFITS OR
+    ANY OTHER KIND OF LOSS WHILE USING OR MISUSING THIS SOFTWARE.
+
+  - You may not use, copy, emulate, clone, rent, lease, sell, modify,
+    decompile, disassemble, otherwise reverse engineer, or transfer the
+    licensed program, or any subset of the licensed program, except as 
+    provided for in this agreement.  Any such unauthorised use shall 
+    result in immediate and automatic termination of this license and
+    may result in criminal and/or civil prosecution.
+
+    All rights not expressly granted here are reserved by XaviWare Sotware.
+
+  - Installing and using Password Elimintor .XLS signifies acceptance of these terms
+    and conditions of the license.
+
+  - If you do not agree with the terms of this license you must remove
+    Password Eliminator .XLS files from your storage devices and cease to use the product.

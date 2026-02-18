@@ -1,0 +1,113 @@
+;Password Eliminator .XLS
+;General Information (Translation based on 1.0.1 app. ver.) 1rst public release
+[GralInfo]
+TranslatorName="Sylwester £ukaszek"
+TranslatorURL=
+TranslatorEMail=
+TranslatorDate="September 2007"
+LanguageName="Polski"
+LanguageFileVersion="v.1.0"
+
+
+;SPECIAL TAGS:
+;<APP/>   = Aplication Name (Password Eliminator.XLS)
+;<FILE/>  = Excel File Name
+;<BOOK/>  = Excel WorkBook Name
+;<SHEET/> = Excel Sheet Name
+
+;ToolBar Area
+[cmdOpen]
+ToolTipText = "Kliknij aby Otworzyæ plik. XLS"
+[cmdObtener]
+ToolTipText= "Kliknij aby Odbezpieczyæ plik"
+[cmdSalir]
+ToolTipText = "Kliknij aby Wyjœæ z programu"
+[cmdBuynow]
+ToolTipText = "Kup Teraz"
+
+;Label Area
+[lblArchivo]
+Caption="Plik"
+[lblResultado]
+Caption="Wynik dzia³ania"
+[lblDesarrolladoPor]
+Caption="Wyprodukowany przez"
+[lblRegistrado]
+Caption="Kopia Zarejestrowana"
+[lblGracias]
+Caption="Dziêkujemy za wybranie programu firmy XaviWare Software. Zarejestruj siê, aby odblokowaæ pe³n¹ funkcjonalnoœæ <APP/>. Wypróbuj program klikaj¹c przycisk "Anuluj""
+[lblPorFavor]
+Caption="Aby siê zarejestrowaæ, wyœlij e-mail do :"
+[lblRegEmail]
+Caption="ze s³owem <<register XLS>> w temacie, do³¹cz swoje dane osobowe oraz swój klucz rejestracyjny (jeœli posiadasz stary) do treœci e-maila aby otrzymywaæ informacje o uaktualnieniach oraz oprogramowaniu darmowym b¹dŸ to na licencji shareware wyprodukowanym przez nas."
+[lblDisclaimer]
+Caption="UWAGA: Ten program komputerowy jest chroniony prawami autorskimi oraz umowami miêdzynarodowymi. Kopiowanie b¹dŸ rozpowszechnianie tego programu lub jakiejkolwiek jego czêœci bez upowa¿nienia mo¿e spowodowaæ poci¹gniêcie do odpowiedzialnoœci cywilnej i karnej w maksymalnym zakresie dopuszczalnym przez prawo."
+[lblDescription]
+Caption="<APP/> jest programem który odblokowuje chronione has³em skoryszyty i arkusze aplikacji Microsoft Excel 5.0/7.0/95/97/2000/2002-XP/2003" 
+[lblDev]
+Caption="G³ówny Programista"
+[lblColaborador]
+Caption="Wspó³wykonawcy"
+[lblTrans]
+Caption="T³umacz Interfejsu"
+
+;Button Area
+[cmdOk]
+Caption="&Akceptujê"
+[cmdCancel]
+Caption="A&nuluj"
+
+;Frame Area
+[frameReg]
+Caption="Wpisz swój klucz rejestracyjny"
+
+;Menu Area
+[mnuOpciones]
+Caption="&Opcje"
+[mnuIdioma]
+Caption="&Jêzyk"
+[mnuRecent]
+Caption="O&statnio otwierane"
+[mnuAyuda]
+Caption="&Pomoc"
+[mnuAcercaDe]
+Caption="O p&rogramie ..."
+[mnuCompra]
+Caption="&Zamów on-line"
+[mnuFeedBack]
+Caption="&Wyœlij sugestiê lub raport o b³êdzie"
+[mnuGoToWeb]
+Caption="Prze&jdŸ do strony domowej <APP/>"
+[mnuAyudaF1]
+Caption="&Pomoc"
+[mnuRegistro]
+Caption="Rejestracja..."
+[mnuProducts]
+Caption="innych produktów"
+[mnuWebbrowsers]
+Caption="Przegladarki"
+
+;Msg Area
+[MSG]
+MSGADVISORY = "Ten program odblokowuje chronione has³em skoroszyty i arkusze MS Excel`a"
+MSGSELECTFILE = "Nie wybrano pliku do odblokowania..."
+MSGFILENOTFOUND = "Pliku NIE znaleziono..."
+MSGERRINVALIDKEY = "Wprowadzony klucz produktu jest NIEW£AŒCIWY, proszê wpisaæ klucz ponownie!"
+MSGREGISTERED = "<APP/> zosta³ ZAREJESTROWANY poprawnie"
+MSGINITIALIZE = "rozpoczêto proces odblokowywania pliku..."
+MSGUNPROTECTEDFILE = "Skoroszyt <FILE/> NIE jest chroniony has³em"
+MSGUNPROTECTEDSHEET = "Arkusz <SHEET/> NIE jest chroniony has³em"
+MSGFINALIZE = "proces odblokowywania zakoñczy³ siê..."
+MSGTOTALTIME = "Czas operacji : "
+MSGCOMBINATIONS = "Liczba sprawdzonych kombinacji : "
+MSGUNPROTECBOOK = "Odblokowujê skoroszyt <BOOK/> ..."
+MSGUNPROTECSHEET = "Odblokowujê arkusz <SHEET/> ..."
+MSGBOOKOK = "Skoroszyt <BOOK/> zosta³ odblokowany pomyœlnie"
+MSGSHEETOK = "Arkusz <SHEET/> zosta³ odblokowany pomyœlnie"
+MSGBOOKWARRANTY = "To powiadomienie jest gwarancj¹, ¿e program mo¿e odblokowaæ skoroszyt <BOOK/>"
+MSGSHEETWARRANTY = "To powiadomienie jest gwarancj¹, ¿e program mo¿e odblokowaæ arkusz <SHEET/>"
+MSGBOOKPWDNOTFOUND = "UWAGA: Poprawne has³o dla skoroszytu <BOOK/> NIE zosta³o znalezione. "
+MSGSHEETPWDNOTFOUND = "UWAGA: Poprawne has³o dla arkuszu <Sheet/> NIE zosta³o znalezione. "
+MSGWITHREGISTERED = "Zarejestrowana wersja <APP/> bêdzie mog³a zlikwidowaæ znalezione ograniczenia w pliku <FILE/> (dotyczy tylko chronionych plików)"
+MSGCANTHELPU = "Program nie mo¿e z³amaæ zabezpieczenia:(, niestety nie pomo¿e on odblokowaæ tego pliku."
+MSGONLYREMOVE = "Ten program usuwa jedynie has³a za³o¿one w nastêpuj¹cy sposób: [Narzêdzia]->[Ochrona]->[Chroñ arkusz]/[Chroñ skoroszyt]."

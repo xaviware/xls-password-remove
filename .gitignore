@@ -1,0 +1,18 @@
+# VB6 Project Files
+*.vbw
+*.pdm
+*.scc
+MSSCCPRJ.SCC
+
+# Setup/Package folders
+Paquete/
+Setup/
+InnoSetup/
+
+# Binaries usually ignored (except the one requested)
+*.obj
+*.exp
+*.lib
+
+# Specific inclusion/exclusion
+!PwdRecXLS.exe

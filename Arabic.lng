@@ -1,0 +1,111 @@
+;Password Eliminator .XLS
+;General Information
+[GralInfo]
+TranslatorName="ּוַֿ ״ַׁÞ Úבם"
+TranslatorURL=""
+TranslatorEMail="jehad_tareq@yahoo.com"
+TranslatorDate="Ýַָׁםׁ/װַָ״ 2011"
+LanguageName="ַבÚָׁםֹ"
+LanguageFileVersion="v.1.0"
+;SPECIAL TAGS:
+;<APP/>   = Aplication Name (Password Eliminator.XLS)
+;<FILE/>  = Excel File Name
+;<BOOK/>  = Excel WorkBook Name
+;<SHEET/> = Excel Sheet Name
+
+;ToolBar Area
+[Examinar]
+ToolTipText="ÝÊֽ דבÝ ֵß׃ב"
+[Obtener]
+ToolTipText="ֵַׂבֹ ַבֽדַםֹ ַבַֿ־בםֹ בבדבÝ"
+[Salir]
+ToolTipText="־ׁזּ"
+[Paypal]
+ToolTipText="װֱַׁ ַבָׁהַדּ Úבל ַבֵהÊׁהÊ"
+
+;Label Area
+[lblArchivo]
+Caption="ֵ׃ד ז דזÞÚ ַבדבÝ"
+[lblResultado]
+Caption="ַבהÊֶַּ"
+[lblDesarrolladoPor]
+Caption="ד״זׁ ַבָׁהַדּ"
+[lblRegistrado]
+Caption="ָׁהַדּ ד׃ּב"
+[lblGracias]
+Caption="װßַׁ בַ־Êםַׁß ַָׁדּ ֵß׃ַÝם זםׁ. ׃ּב ה׃ֽÊß ַבםזד בÊÝÚםב ּדםÚ ־םַַׁÊ ַבָׁהַדּ"
+[lblPorFavor]
+Caption=":ַבֱַּׁ ֵׁ׃ַב ׁ׃ַבֹ בבÚהזַה ַבÊַבם"
+[lblRegEmail]
+Caption="דÚ זײÚ(Ê׃ּםב ֵß׃ ֵב ֵ׃)ַָבֵהּבםׂםֹ Ýם ־ַהֹ ַבדזײזÚ¡ ß׀בß ײÚ ַ׃דß ײדה דֽÊזל ַבׁ׃ַבֹ ז ׀בß בבֽױזב Úבל דÚבזדַÊ ֽזב ַבÊֽֿםַֻÊ ז ֳםֹ ַָׁדּ דַּהםֹ ֳז Êּׁםָםֹ ההÊּוַ "
+[lblDisclaimer]
+Caption="Êֽ׀םׁ: ו׀ַ ַבָׁהַדּ דֽדם ֽ׃ָ Þזַהםה ַבדבßםֹ ז ַבדÚַוַֿÊ ַבֿזבםֹ¡ ֵÚַֹֿ ַבÊזׂםÚ ז ַבÊÚֿםב בֳם ֱּׂ דהו םÚׁײ ױַָֽו בבÚÞזַָÊ ַבװֿםֹֿ ז ַבדבַֽÞֹ ַבÞײֶַםֹ"
+[lblDescription]
+Caption="ָׁהַדּ בֵַׂבֹ ַבֽדַםֹ ַבַֿ־בםֹ בדבÝַÊ דַםßׁז׃זÝÊ ֵß׃ב 5.0 ֽÊל 2003"
+[lblDev]
+Caption="ד״זׁ ַבָׁהַדּ"
+[lblColaborador]
+Caption="ַבד׃ַודזה"
+[lblTrans]
+Caption="דÊּׁד זַּוֹ ַבַ׃Ê־ַֿד"
+
+;Button Area
+[cmdOk]
+Caption="דזַÝÞ"
+[cmdCancel]
+Caption="ֵַבÛֱַ"
+
+;Frame Area
+[frameReg]
+Caption="ֳֿ־ב ׁÞד ַבÊ׃ּםב ַב־ַױ ָß"
+
+;Menu Area
+[mnuOpciones]
+Caption="־םַַׁÊ"
+[mnuIdioma]
+Caption="ַבבÛֹ"
+[mnuRecent]
+Caption="דבÝַÊ ׃ַָÞֹ"
+[mnuAyuda]
+Caption="ד׃ַÚֹֿ"
+[mnuAcercaDe]
+Caption="...ֽזב ַבָׁהַדּ"
+[mnuCompra]
+Caption="װֱַׁ ַבָׁהַדּ Úה ״ׁםÞ ַבֵהÊׁהÊ"
+[mnuFeedBack]
+Caption="ֳׁ׃ב דÞÊַֽׁÊß"
+[mnuGoToWeb]
+Caption="ַב׀וַָ בדזÞÚ ַבָׁהַדּ Úבל ַבֵהÊׁהÊ"
+[mnuAyudaF1]
+Caption="ד׃ַÚֹֿ"
+[mnuProducts]
+Caption="Other Products"
+[mnuWebbrowsers]
+Caption="Web Browsers"
+[mnuRegistro]
+Caption="Registration..."
+
+;Msg Area
+[MSG]
+MSGADVISORY = "ו׀ַ ַבָׁהַדּ םÞזד ֵַָׂבֹ ßבדֹ ַב׃ׁ ַבד׃Ê־ֿדֹ בֽדַםֹ ßÊַָ ַבÚדב ז ױÝֹֽ ַבÚדב בדבÝ ֵß׃ב"
+MSGSELECTFILE = "...בד ÊÞד ַָ־Êםַׁ דבÝ"
+MSGFILENOTFOUND = "...בד םÊד ַבÚֻזׁ Úבל ַבדבÝ"
+MSGERRINVALIDKEY = "ׁÞד ַבÊ׃ּםב Ûםׁ ױֽםֽ¡ םּׁל ֵÚַֹֿ ַבדַֽזבֹ"
+MSGREGISTERED = "Êד Ê׃ּםב ַבָׁהַדּ ָהַּֽ"
+MSGINITIALIZE = "...ַבֱָֿ ָÚדבםֹ Ýֽױ ַבֽדַםֹ"
+MSGUNPROTECTEDFILE = "ַבדבÝ ַבד״בזָ Ûםׁ דֽדם ָßבדֹ ׃ׁ"
+MSGUNPROTECTEDSHEET = "Ûםׁ דֽדםֹ ָßבדֹ ׃ׁ <SHEET/> ױÝֹֽ ַבÚדב"
+MSGFINALIZE = "...Êד ַבַהÊוֱַ דה Úדבםֹ Ýֽױ ַבֽדַםֹ"
+MSGTOTALTIME = "ַבזÞÊ ַבßבם:  "
+MSGCOMBINATIONS = "Úֿֿ ַבÊ־דםהַÊ ַבדדßהֹ בßבדֹ ַב׃ׁ וז:  "
+MSGUNPROTECBOOK = "... <BOOK/> םÊד ֵַׂבֹ ַבֽדַםֹ דה ßÊַָ ַבÚדב"
+MSGUNPROTECSHEET = "... <SHEET/> םÊד ֵַׂבֹ ַבֽדַםֹ דה ױÝֹֽ ַבÚדב"
+MSGBOOKOK = "ָהַּֽ <BOOK/> ÊדÊ ֵַׂבֹ ַבֽדַםֹ דה ßÊַָ ַבÚדב"
+MSGSHEETOK = "ָהַּֽ <SHEET/> ÊדÊ ֵַׂבֹ ַבֽדַםֹ דה ױÝֹֽ ַבÚדב"
+MSGBOOKWARRANTY = "<BOOK/> ו׀ו ַבׁ׃ַבֹ ום ײדַהֹ בÞֹֿׁ ַבָׁהַדּ Úבל ֵַׂבֹ ßבדֹ ַב׃ׁ דה ßÊַָ ַבÚדב"
+MSGSHEETWARRANTY = "<SHEET/> ו׀ו ַבׁ׃ַבֹ ום ײדַהֹ בÞֹֿׁ ַבָׁהַדּ Úבל ֵַׂבֹ ßבדֹ ַב׃ׁ דה ױÝֹֽ ַבÚדב"
+MSGBOOKPWDNOTFOUND = "... <BOOK/> Êהָםו: בד םÊד ַבÚֻזׁ Úבל Êׁßםָֹ ßבדֹ ׃ׁ דהַ׃ָֹ בßÊַָ ַבÚדב"
+MSGSHEETPWDNOTFOUND = "... <SHEET/> Êהָםו: בד םÊד ַבÚֻזׁ Úבל Êׁßםָֹ ßבדֹ ׃ׁ דהַ׃ָֹ בױÝֹֽ ַבÚדב
+MSGWITHREGISTERED = "ָהַּֽ <FILE/> ׃זÝ ÊÊדßה דה ֵַׂבֹ ַבֽדַםֹ ַבַֿ־בםֹ בבדבÝ <APP/> ָװֶַׁß ָׁהַדּ"
+MSGCANTHELPU = "בַ ם׃Ê״םÚ ו׀ַ ַבָׁהַדּ ֵַׂבֹ ַבֽדַםֹ Úה ו׀ַ ַבדבÝ¡ בבֳ׃Ý בה םÝםֿß ַבָׁהַדּ דÚ ו׀ַ ַבדבÝ"
+MSGONLYREMOVE = "םÞזד ו׀ַ ַבָׁהַדּ ÝÞ״ ֵַָׂבֹ ַבֽדַםֹ Úה ßÊַָ ַבÚדב ז ױÝֹֽ ַבÚדב ָזַ׃״ֹ (ֳֿזַÊ/ֽדַםֹ/ֽדַםֹ ßÊַָ ַבÚדב ֳז ֽדַםֹ ױÝֹֽ ַבÚדב) Ýם ָׁהַדּ ֵß׃ב ז בם׃Ê ßבדֹ ַב׃ׁ בÝÊֽ ַבדבÝ"

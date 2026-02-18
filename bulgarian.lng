@@ -1,0 +1,111 @@
+;Password Eliminator .XLS
+;General Information
+[GralInfo]
+TranslatorName="Kaloyan Stolinov"
+TranslatorURL="http://bul-source.com"
+TranslatorEMail="kaloyan.stolinov@bul-source.com"
+TranslatorDate="April 2007"
+LanguageName="Bulgarian"
+LanguageFileVersion="v.1.0"
+;SPECIAL TAGS:
+;<APP/>   = Aplication Name (Password Eliminator.XLS)
+;<FILE/>  = Excel File Name
+;<BOOK/>  = Excel WorkBook Name
+;<SHEET/> = Excel Sheet Name
+
+;ToolBar Area
+[cmdOpen]
+ToolTipText="Отвори .XLS файл"
+[cmdObtener]
+ToolTipText="Отключи файла"
+[cmdSalir]
+ToolTipText="Изход"
+[cmdBuynow]
+ToolTipText="Buy now"
+
+;Label Area
+[lblArchivo]
+Caption="Файл"
+[lblResultado]
+Caption="Резултати"
+[lblDesarrolladoPor]
+Caption="Създадена от"
+[lblRegistrado]
+Caption="Регистриран софтуер"
+[lblGracias]
+Caption="Благодарим Ви, че избрахте XaviWare софтуер. Регистрирайте днес за да отключите всички функции на <APP/>"
+[lblPorFavor]
+Caption="Моля, изпратете И-мейл до:"
+[lblRegEmail]
+Caption="съдържаш <<register XLS>> в темата и включете Вашето име в писмото, за да получавате информация за нови версии на програмата и други програми публикувани от нас."
+[lblDisclaimer]
+Caption="Внимание: тази програма е защитена от законите за възнагражденията и други международни споразумения. Репродукцията или незаконното разпространение на тази програма, или на която и да е част от същата, се наказват от закона със сурови санкции и ще бъдат обект на всички съдебни действия, които произтичат от тях."
+[lblDescription]
+Caption="<APP/> е програма за отключване на файлове и таблици на Microsoft Excel 5.0/7.0/95/97/2000/2002-XP/2003 защитени с парола."
+[lblDev]
+Caption="Разработчик"
+[lblColaborador]
+Caption="Сътрудници"
+[lblTrans]
+Caption="Преводач на интерфейса"
+
+;Button Area
+[cmdOk]
+Caption="&Да"
+[cmdCancel]
+Caption="&Отказ"
+
+;Frame Area
+[frameReg]
+Caption="Въведете Вашият регистрационен ключ"
+
+;Menu Area
+[mnuOpciones]
+Caption="&Опции"
+[mnuIdioma]
+Caption="&Език"
+[mnuRecent]
+Caption="Последни файлове"
+[mnuAyuda]
+Caption="&Помощ"
+[mnuAcercaDe]
+Caption="&За програмата..."
+[mnuCompra]
+Caption="Поръчайте Он-лайн"
+[mnuFeedBack]
+Caption="Изпратете предложение"
+[mnuGoToWeb]
+Caption="Посетете страницата на <APP/>"
+[mnuAyudaF1]
+Caption="&Помощ"
+[mnuRegistro]
+Caption="Регистрация..."
+[mnuProducts]
+Caption="Other Products"
+[mnuWebbrowsers]
+Caption="Web Browsers"
+
+;Msg Area
+[MSG]
+MSGADVISORY = "Програмата отключва файлове и таблици на Microsoft Excel 5.0/7.0/95/97/2000/2002-XP/2003 защитени с парола."
+MSGSELECTFILE = "Не е избран файл..."
+MSGFILENOTFOUND = "Файлът не е намерен..."
+MSGERRINVALIDKEY = "Посоченият регистрационен ключ не е валиден, моля опитайте отново!"
+MSGREGISTERED = "<APP/> беше успешно регистрирана."
+MSGINITIALIZE = "Процесът за отключване е стартиран..."
+MSGUNPROTECTEDFILE = "Файлът <FILE/> не е защитен с парола."
+MSGUNPROTECTEDSHEET = "Таблицата <SHEET/> не е защитена с парола."
+MSGFINALIZE = "Процесът за отключване е завършен."
+MSGTOTALTIME = "Общо време: "
+MSGCOMBINATIONS = "Общо комбинации: "
+MSGUNPROTECBOOK = "Отключване на файла <BOOK/> ..."
+MSGUNPROTECSHEET = "Отключване на таблицата <SHEET/> ..."
+MSGBOOKOK = "Файлът <BOOK/> беше успешно отключен."
+MSGSHEETOK = "Таблицата <SHEET/> беше успешно отключена."
+MSGBOOKWARRANTY = "Това съобщение гарантира, че файлът <BOOK/> може да бъде отключен."
+MSGSHEETWARRANTY = "Това съобщение гарантира, че Таблицата <SHEET/> може да бъде отключена."
+MSGBOOKPWDNOTFOUND = "ВНИМАНИЕ: Не е открита валидна комбинация за таблицата <BOOK/>."
+MSGSHEETPWDNOTFOUND = "ВНИМАНИЕ: Не е открита валидна комбинация за файла <Sheet/>."
+MSGWITHREGISTERED = "Като закупите <APP/> тя ще може да отваря отключената версия на файла <FILE/>"
+MSGCANTHELPU = "Тази програма не може да премахва файлова защита, програмата не може да Ви помогне с този файл."
+MSGONLYREMOVE = "Тази програма премахва само пароли поставени в Excel със [Tools]-[Protection]-[Protect sheet]/[Protect workbook]."

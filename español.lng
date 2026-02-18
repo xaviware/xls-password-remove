@@ -1,0 +1,111 @@
+;Password Eliminator .XLS
+;General Information
+[GralInfo]
+TranslatorName="Javier Orellana"
+TranslatorURL="http://www.xaviware.cl"
+TranslatorEMail="xaviware@xaviware.cl"
+TranslatorDate="January 2007"
+LanguageName="Español (Chile)"
+LanguageFileVersion="v.1.0"
+;SPECIAL TAGS:
+;<APP/>   = Aplication Name (Password Eliminator.XLS)
+;<FILE/>  = Excel File Name /Nombre del Archivo a Desproteger
+;<BOOK/>  = Excel WorkBook Name /Nombre del Libro a Desproteger
+;<SHEET/> = Excel Sheet Name /Nombre de la Hoja a Desproteger
+
+;ToolBar Area
+[cmdOpen]
+ToolTipText="Abrir un Archivo .XLS"
+[cmdObtener]
+ToolTipText="Desproteger Archivo"
+[cmdSalir]
+ToolTipText="Salir del Programa"
+[cmdBuynow]
+ToolTipText="Comprar el Programa"
+
+;Label Area
+[lblArchivo]
+Caption="Archivo"
+[lblResultado]
+Caption="Resultados"
+[lblDesarrolladoPor]
+Caption="Desarrollado Por"
+[lblRegistrado]
+Caption="Software Registrado"
+[lblGracias]
+Caption="Gracias por preferir XaviWare Software. Registrese hoy para habilitar todas las funcionalidades de <APP/>"
+[lblPorFavor]
+Caption="Por favor, envíe un Correo Electrónico a:"
+[lblRegEmail]
+Caption="Con <<registro XLS>> en el Asunto, Incluya su Nombre en el cuerpo del mensaje para recibir información acerca de actualizaciones, software freeware ó shareware publicado por nosotros."
+[lblDisclaimer]
+Caption="Advertencia: este programa está protegido por las leyes de derechos de autor y otros tratados internacionales. La reproducción o distribución ilícitas de este programa, o de cualquier parte del mismo está penada por la ley con severas sanciones civiles y penales, y será objeto de todas las acciones judiciales que correspondan."
+[lblDescription]
+Caption="<APP/> es un programa para Desproteger Libros y Hojas de Microsoft Excel 5.0/7.0/95/97/2000/2002-XP/2003 Protegidos por Contraseña."
+[lblDev]
+Caption="Desarrollador de Software"
+[lblColaborador]
+Caption="colaboradores"
+[lblTrans]
+Caption="Traductor de Interfaz"
+
+;Button Area
+[cmdOk]
+Caption="&Aceptar"
+[cmdCancel]
+Caption="&Cancelar"
+
+;Frame Area
+[frameReg]
+Caption="Ingrese su Clave de Registro"
+
+;Menu Area
+[mnuOpciones]
+Caption="&Opciones"
+[mnuIdioma]
+Caption="&Idioma"
+[mnuRecent]
+Caption="Archivos Recientes"
+[mnuAyuda]
+Caption="&Ayuda"
+[mnuAcercaDe]
+Caption="A&cerca de ..."
+[mnuCompra]
+Caption="Compre en Línea"
+[mnuFeedBack]
+Caption="Enviar Sugerencia ó Reclamo"
+[mnuGoToWeb]
+Caption="Ir a la Web de <APP/>"
+[mnuAyudaF1]
+Caption="&Ayuda"
+[mnuProducts]
+Caption="Otros Productos"
+[mnuWebbrowsers]
+Caption="Navegadores Web"
+[mnuRegistro]
+Caption="Registrar..."
+
+;Msg Area
+[MSG]
+MSGADVISORY = "Este Programa Desprotege Libros y Hojas de Excel, Protegidas con Contraseña."
+MSGSELECTFILE = "No ha Seleccionado un Archivo..."
+MSGFILENOTFOUND = "Archivo No Encontrado..."
+MSGERRINVALIDKEY = "La clave de registro especificada no es válida, por favor intente nuevamente"
+MSGREGISTERED = "<APP/> ha sido registrado correctamente"
+MSGINITIALIZE = "Proceso de Desprotección Inicializado..."
+MSGUNPROTECTEDFILE = "El Archivo <FILE/> No esta protegido con Contraseña"
+MSGUNPROTECTEDSHEET = "La Hoja <SHEET/> No esta protegida con contraseña"
+MSGFINALIZE = "Proceso de Desprotección Finalizado..."
+MSGTOTALTIME = "Tiempo Total : "
+MSGCOMBINATIONS = "Total de Combinaciones Probadas : "
+MSGUNPROTECBOOK = "Desprotegiendo el Libro <BOOK/> ..."
+MSGUNPROTECSHEET = "Desprotegiendo la Hoja <SHEET/> ..."
+MSGBOOKOK = "el Libro <BOOK/> Ha sido Desprotegido Satisfactoriamente"
+MSGSHEETOK = "La Hoja <SHEET/> ha sido Desprotegida Satisfactoriamente"
+MSGBOOKWARRANTY = "Este mensaje es una garantia de que el Libro <BOOK/> puede ser Desprotegido"
+MSGSHEETWARRANTY = "Este mensaje es una garantia de que La Hoja <SHEET/> puede ser Desprotegida"
+MSGBOOKPWDNOTFOUND = "ADVERTENCIA: Una Combinación válida para el Libro <BOOK/> No Ha Sido Encontrada."
+MSGSHEETPWDNOTFOUND = "ADVERTENCIA: Una Combinación válida para la Hoja <SHEET/> No Ha Sido Encontrada."
+MSGWITHREGISTERED = "Con la compra de <APP/> podrá abrir una versión desprotegida del archivo <FILE/>"
+MSGCANTHELPU = "Este programa no puede quitar la protección de archivo, Este programa no puede ayudarte con este Archivo."
+MSGONLYREMOVE = "Este programa solo remueve contraseñas establecidas en [Herramientas]-[Proteger]-[Proteger Hoja]/[Proteger Libro]."

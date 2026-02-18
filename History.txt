@@ -1,0 +1,50 @@
+Password Eliminator .XLS: versions history
+==========================================
+
+! bug fixed
++ improvement/modification
+- wish list
+
+Version in development
+----------------------
+[+] Help File in Spanish is Included.
+
+
+Version 2.0.0 - 2011/10/15
+--------------------------
+[+] User Interface is Improved
+[+] "Register XLS" is added automatically when the user push the email link in register window
+[+] Author e-Mail contact link is removed from the Main Window
+[+] Buy now button is added on Registration Form.
+[+] Registration menu item is added on Main Form.
+[+] Links to product webpage in the Spanish or English whichever is applicable.
+[+] Links to other products webpages are added.
+[+] Header of some Forms in Spanish or English whichever is applicable.
+[+] Registration Codes formula has been Change.
+[+] Setup is re-generated with InnoSetup.
+[+] Unistaller shorcut is added in Program Files menu.
+[+] Other Products Menu is Updated.
+
+Version 1.0.4
+-------------
+[+] Recover Password based on all Passwords of the file .
+[+] Buy now button is added.
+
+Version 1.0.3
+-------------
+[+] Internal Error Handling and Log is added.
+
+Version 1.0.2
+-------------
+[+] Polish Language Interface File is added. [Translator - Sylwester £ukaszek]
+
+Version 1.0.1
+-------------
+[!] bugfix (Resize Main Window)
+[!] Go to Password Eliminator .XLS (Menu) has been redirected.
+[+] Bulgarian Language Interface is added. [Translator - Kaloyan Stolinov]
+[+] Romanian Language Interface File is added. [Translator - Cristian Stefan]
+
+Version 1.0.0
+-------------
+First public release.

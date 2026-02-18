@@ -1,0 +1,111 @@
+;Password Eliminator .XLS
+;General Information
+[GralInfo]
+TranslatorName="Cristian Stefan"
+TranslatorURL=""
+TranslatorEMail="crstfn@yahoo.com"
+TranslatorDate="May 2007"
+LanguageName="Romana"
+LanguageFileVersion="v.1.0"
+;SPECIAL TAGS:
+;<APP/>   = Aplication Name (Password Eliminator.XLS)
+;<FILE/>  = Excel File Name
+;<BOOK/>  = Excel WorkBook Name
+;<SHEET/> = Excel Sheet Name
+
+;ToolBar Area
+[cmdOpen]
+ToolTipText="Deschide fisier .XLS"
+[cmdObtener]
+ToolTipText="Inlatura protectie fisier"
+[cmdSalir]
+ToolTipText="Iesire"
+[cmdBuynow]
+ToolTipText="Cumpara acum"
+
+;Label Area
+[lblArchivo]
+Caption="Fisier"
+[lblResultado]
+Caption="Rezultate"
+[lblDesarrolladoPor]
+Caption="Creat de"
+[lblRegistrado]
+Caption="Program inregistrat"
+[lblGracias]
+Caption="Multumim pentru alegerea XaviWare Software. Inregistrati-va azi pentru a activa toate functiile <APP/>"
+[lblPorFavor]
+Caption="Trimiteti un email la :"
+[lblRegEmail]
+Caption="cu <<register XLS>> ca subiect, includeti numele dvs in corpul email-ului pentru a primi informatii referitoare la upgrade si alte programe freeware sau shareware produse de noi."
+[lblDisclaimer]
+Caption="Atentie: acest program este protejat de legea dreptului de autor si de alte tratate internationale. Reproducerea sau distribuirea ilegala a acestui program, sau a unor parti din el se pedepseste conform legii cu sanctiuni civile sau penale, si va fi subiectul actiunilor juridice corespunzatoare."
+[lblDescription]
+Caption="<APP/> este un program pentru inlaturarea protectiei Foilor de calcul si a Workbooks ale Microsoft Excel 5.0/7.0/95/97/2000/2002-XP/2003 protejate prin parola" 
+[lblDev]
+Caption="Creator Software"
+[lblColaborador]
+Caption="Colaboratori"
+[lblTrans]
+Caption="Traducator Interfata"
+
+;Button Area
+[cmdOk]
+Caption="&Ok"
+[cmdCancel]
+Caption="Anuleaza"
+
+;Frame Area
+[frameReg]
+Caption="Introduceti cheia de inregistrare"
+
+;Menu Area
+[mnuOpciones]
+Caption="Optiuni"
+[mnuIdioma]
+Caption="Limba"
+[mnuRecent]
+Caption="Fisiere Recente"
+[mnuAyuda]
+Caption="Ajutor"
+[mnuAcercaDe]
+Caption="Despre ..."
+[mnuCompra]
+Caption="Comanda On-line"
+[mnuFeedBack]
+Caption="Trimiteti Sugestii"
+[mnuGoToWeb]
+Caption="Website <APP/>"
+[mnuAyudaF1]
+Caption="Ajutor"
+[mnuProducts]
+Caption="Alte produse"
+[mnuWebbrowsers]
+Caption="Browsere web"
+[mnuRegistro]
+Caption="Inregistrare..."
+
+;Msg Area
+[MSG]
+MSGADVISORY = "Program pentru inlaturarea protectiei Foilor de calcul si a Workbooks ale Excel, protejate prin parola"
+MSGSELECTFILE = "Nici un Fisier selectat..."
+MSGFILENOTFOUND = "Nu s-a gasit fisierul..."
+MSGERRINVALIDKEY = "Cheie de inregistrare invalida, incercati din nou!"
+MSGREGISTERED = "<APP/> inregistrat cu succes"
+MSGINITIALIZE = "incepere inlaturare protectie..."
+MSGUNPROTECTEDFILE = "Fisierul <FILE/> nu este protejat prin parola"
+MSGUNPROTECTEDSHEET = "Foaia <SHEET/> nu este protejata prin parola"
+MSGFINALIZE = "inlaturare protectie terminata..."
+MSGTOTALTIME = "Timp Total : "
+MSGCOMBINATIONS = "Combinatii Totale : "
+MSGUNPROTECBOOK = "Inlaturare protectie Workbook <BOOK/> ..."
+MSGUNPROTECSHEET = "Inlaturare protectie Foaie <SHEET/> ..."
+MSGBOOKOK = "Workbook <BOOK/> Protectie inlaturata cu succes"
+MSGSHEETOK = "Foaie <SHEET/> Protectie inlaturata cu succes"
+MSGBOOKWARRANTY = "Acest mesaj certifica faptul ca protectia Workbook <BOOK/> nu poate fi inlaturata"
+MSGSHEETWARRANTY = "Acest mesaj certifica faptul ca protectia Foii <SHEET/> nu poate fi inlaturata"
+MSGBOOKPWDNOTFOUND = "ATENTIA: Nu s-a gasit o combinatie valida pentru Workbook <BOOK/>. "
+MSGSHEETPWDNOTFOUND = "ATENTIE: Nu s-a gasit o combinatie valida pentru Foaia <Sheet/>. "
+MSGWITHREGISTERED = "Dupa cumpararea <APP/> veti putea deschide o versiune neprotejata a fisierului <FILE/>"
+MSGCANTHELPU = "Acest program nu poate inlatura protectia fisierului, acest program nu este util pentru acest fisier."
+MSGONLYREMOVE = "Acest program inlatura doar parolele aplicate prin [Tools]-[Protection]-[Protect sheet]/[Protect workbook]."
